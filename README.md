@@ -25,7 +25,9 @@ Lenguajes:
 
 ------------------------------------------------------------------
 
-Realicé la página con los métodos aprendidos en la cursada y con algunas otas cosas aprendidads de manera autodidacta.
+Realicé la página con los métodos aprendidos en la cursada y con algunas otas cosas aprendidas de manera autodidacta.
+
+Es una página 100% responsive.
 
 ------------------------------------------------------------------
 
